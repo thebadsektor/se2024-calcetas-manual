@@ -120,7 +120,20 @@ List all the team members involved in the project. Include their roles and respo
 
 Outline the project timeline, including milestones or deliverables. Example:
 
-- **Week 1-2**: Research and project planning.
+- **Week 1-2**: Collaborative Brainstorming for Feature Development.
+	-09/15/2024
+  	-Meeting Recording: https://youtu.be/-joPkUy2A9s
+  	-Proposes Features:
+  	1. Staff Management
+  	2. Data Security
+  	3. Communication Tools
+  	4. Emergency Management
+  	5. Patient Portal
+  	6. Telemedicine
+  	7. Clinical Decision Support
+  	8. Billing and Invoicing
+  	9. Electronic Health Records (EHR)
+  	10. Appointment Scheduling	
 - **Week 3-5**: Design and setup.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.

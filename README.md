@@ -133,7 +133,12 @@ Outline the project timeline, including milestones or deliverables. Example:
   	7. Clinical Decision Support
   	8. Billing and Invoicing
   	9. Electronic Health Records (EHR)
-  	10. Appointment Scheduling	
+  	10. Appointment Scheduling
+ 
+  	- Approved Feature: Dockerize Project.
+  	- Target Completion: 27/10/2024
+ 
+  	 
 - **Week 3-5**: Design and setup.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.
